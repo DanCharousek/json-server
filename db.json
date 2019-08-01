@@ -1,6 +1,24 @@
 {
-  "user": {
-    "userId": 1,
-    "userName": "John Doe"
-  }
+  "users":  [
+    {
+      "userId": 1,
+      "userName": "John Doe"
+    },
+    {
+      "userId": 2,
+      "userName": "Bada Lars"
+    },
+    {
+      "userId": 3,
+      "userName": "Perele Daniel"
+    },
+    {
+      "userId": 4,
+      "userName": "Faustino Daniels"
+    },
+    {
+      "userId": 5,
+      "userName": "Kresten Veselin"
+    }
+  ]
 }
