@@ -1,4 +1,9 @@
 {
+  "user": {
+    "userId": 1,
+    "userName": "John Doe"
+  },
+  
   "users":  [
     {
       "userId": 1,
